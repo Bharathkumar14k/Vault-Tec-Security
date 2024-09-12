@@ -19,3 +19,5 @@ This Python tool performs network scanning using ARP (Address Resolution Protoco
    ```bash
    git clone https://github.com/Bharathkumar14k/Vault-Tec-Security.git
    cd Vault-Tec-Security
+#Run
+python3 scan.py --target 192.168.0.0/24
