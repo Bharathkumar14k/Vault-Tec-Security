@@ -27,15 +27,6 @@ python3 scan.py --target 192.168.1.0/24
 
 ##Output:
 
-##############################################################
-#                                                            #
-#              Welcome to the Python IP Scanner              #
-#              Scanning Your Network for Active Hosts         #
-#                                                            #
-##############################################################
+![image](https://github.com/user-attachments/assets/5d79a111-5cca-4115-b648-01011bb3dded)
 
-[*] Scanning network: 192.168.1.0/24
-[*] Active Hosts:
-IP: 192.168.1.2, MAC: aa:bb:cc:dd:ee:ff
-IP: 192.168.1.5, MAC: 11:22:33:44:55:66
 
