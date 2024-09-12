@@ -19,13 +19,13 @@ This Python tool performs network scanning using ARP (Address Resolution Protoco
    ```bash
    git clone https://github.com/Bharathkumar14k/Vault-Tec-Security.git
    cd Vault-Tec-Security
- ##Install dependencies:
- pip install scapy
+ # Install dependencies:
+ - pip install scapy
 
-##Run
-python3 scan.py --target 192.168.1.0/24
+# Run
+- python3 scan.py --target 192.168.1.0/24
 
-##Output:
+# Output:
 
 ![image](https://github.com/user-attachments/assets/5d79a111-5cca-4115-b648-01011bb3dded)
 
